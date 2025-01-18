@@ -75,3 +75,4 @@ A classe `AppLauncher` é o ponto de entrada do aplicativo. Ela inicializa e exi
 ---
 
 Obrigado por usar o **Atmos**!
+
