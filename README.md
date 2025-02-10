@@ -78,8 +78,8 @@ O **Atmos** foi desenvolvido utilizando uma combinação de tecnologias modernas
 - **Linguagem**: [Java](https://www.java.com/)  
   _(A linguagem de programação principal utilizada para desenvolver a lógica do aplicativo e garantir desempenho consistente.)_
 
-- **Ambiente de Desenvolvimento**: [Eclipse](https://www.eclipse.org/)  
-  _(IDE utilizada para desenvolvimento, oferecendo suporte completo ao código em Java e integração com ferramentas de depuração.)_
+- **Ambiente de Desenvolvimento**: [Eclipse](https://www.eclipse.org/) e [IntelliJ IDEA](https://www.jetbrains.com/idea/)  
+  _(IDEs utilizadas para desenvolvimento, oferecendo suporte completo ao código em Java e integração com ferramentas de depuração.)_
 
 - **Ferramentas de Design**: [Figma](https://www.figma.com/), [Canva](https://www.canva.com/)  
   _(Ferramentas usadas para criar protótipos, elementos gráficos e o design visual do aplicativo.)_
