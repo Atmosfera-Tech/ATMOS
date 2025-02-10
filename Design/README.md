@@ -1,4 +1,4 @@
-# 📱 Projeto de App Climático - Design
+# 📱 Atmos - Design
 
 Este repositório contém todos os recursos gráficos e de design utilizados no desenvolvimento do Atmos, um aplicativo inovador para previsão climática. O design busca criar uma interface amigável e intuitiva, proporcionando uma experiência visual fluida e consistente. O repositório está estruturado em pastas específicas que abordam diferentes aspectos do design, desde a escolha das cores até a construção das telas.
 
@@ -13,8 +13,8 @@ O repositório está organizado nas seguintes pastas, contendo os elementos grá
 **Descrição**  
 Esta pasta contém os recursos fundamentais para a identidade visual do Atmos, incluindo a paleta de cores, ícones e tipografia. Esses elementos foram escolhidos para criar uma interface coesa, agradável e de fácil leitura.
 
-- **Cores**: Paleta de cores primárias e secundárias, com variações para botões, textos e fundos.
-- **Ícones**: Ícones para representar funções principais do aplicativo, como localização, clima e alertas.
+- **Cores**: Paleta de cores primárias e secundárias, com variações para textos e fundos.
+- **Ícones**: Ícones para representar funções principais do aplicativo, como localização e clima.
 - **Tipografia**: Estilos tipográficos para garantir clareza e legibilidade em diferentes dispositivos.
 
 Para mais informações sobre esses recursos, consulte os arquivos dentro desta pasta.
@@ -36,7 +36,7 @@ Para mais informações sobre os fundos, confira os arquivos nesta pasta.
 ### 3. 🌐 Logos
 
 **Descrição**  
-Esta pasta contém as logos do Atmos e da Atmosfera Tech. Elas são usadas tanto para o branding dentro do aplicativo quanto para materiais promocionais.
+Esta pasta contém as logos do Atmos e da Atmosfera Tech. Elas são usadas para o branding dentro do aplicativo.
 
 - **Logo do Atmos**: Versões do logo do aplicativo.
 - **Logo da Atmosfera Tech**: Versões do logo institucional.
