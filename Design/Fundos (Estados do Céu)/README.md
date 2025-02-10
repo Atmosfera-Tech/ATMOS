@@ -2,6 +2,7 @@
 
 Esta pasta contém imagens e GIFs que representam as diferentes condições climáticas (como céu limpo, nublado ou chuvoso). Elas são aplicadas dinamicamente na interface do Atmos conforme as condições climáticas obtidas da API, criando uma experiência visual imersiva para o usuário.
 
+
 ## 📂 GIFs
 A pasta **GIFs** contém animações dinâmicas que ilustram as transições de clima em tempo real, ajudando a representar de maneira mais fluida as mudanças nas condições climáticas.
 
