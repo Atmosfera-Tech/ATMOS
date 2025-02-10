@@ -51,17 +51,13 @@ Veja o **Atmos** em funcionamento:
 
 A equipe por trás do **Atmos** é composta por profissionais dedicados, cada um contribuindo com sua expertise para o sucesso deste projeto:
 
-- **Maxwell** – Programação e Interface (Front-end)  
-  _(Responsável pelo desenvolvimento da interface do usuário, garantindo uma navegação intuitiva e uma experiência fluida.)_
+🎨 **[Maxwell](https://github.com/MaxwellMaciel)** - _Programação e Interface (Front-end)._ 
 
-- **Gabriel** – Programação da API  
-  _(Responsável pela integração da API e por garantir que as previsões climáticas sejam precisas e atualizadas em tempo real.)_
+💻 **[Gabriel](https://github.com/gabrielviniciussc)** - _Programação da API (Back-end)._ 
 
-- **Victor** – Diagramas  
-  _(Responsável pela criação dos diagramas e fluxos do sistema, auxiliando na visualização e organização do projeto.)_
+📊 **[Victor](https://github.com/Victor0041)** - _Diagramas._
 
-- **Thaylize** – Design, Gerenciamento e Organização Visual do Repositório  
-  _(Responsável pela estética do projeto, organização das pastas e pela manutenção da consistência visual em todo o repositório.)_
+🖌️ **[Thaylize](https://github.com/thaylizesant0s)** - _Design, Gerenciamento e Organização Visual do Repositório._
 
 ---
 
@@ -93,7 +89,7 @@ O repositório está organizado da seguinte forma:
 📦 **Atmos**  
  ┣ 📂 **AtmosEclip**  
  ┣ 📂 **Design**  
- ┣ 📂 **Java**  
+ ┣ 📂 **Java Interface**  
  ┗ 📜 **README.md**
 
 ### 📁 **Descrição das Pastas**:
@@ -102,12 +98,12 @@ O repositório está organizado da seguinte forma:
   _(Repositório principal contendo todos os arquivos e subpastas organizados para o desenvolvimento do aplicativo.)_
 
 - **AtmosEclip**:  
-  _(Contém o código-fonte responsável pela integração com a API e o funcionamento do aplicativo.)_
+  _(Contém o código-fonte responsável pela integração com a API e o funcionamento do aplicativo, além de representar o protótipo de segurança.)_
 
 - **Design**:  
   _(Contém todos os elementos gráficos, protótipos de tela e assets visuais usados no desenvolvimento da interface.)_
 
-- **Java**:  
+- **Java Interface**:  
   _(Inclui o código-fonte da interface gráfica e o front-end implementado com **JavaFX**.)_
 
 - **README.md**:  
