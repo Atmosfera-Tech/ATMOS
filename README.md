@@ -139,7 +139,7 @@ Siga os passos abaixo para configurar e rodar o **Atmos** no seu sistema.
 Primeiro, clone o repositório para a sua máquina local:
 
 ```bash
-git clone https://github.com/AtmosferaTech/Atmos.git
+git clone https://github.com/Atmosfera-Tech/Atmos.git
 ````
 
 ### 2️⃣ **Instale as Dependências**
