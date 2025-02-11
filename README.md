@@ -13,25 +13,39 @@ A **Atmosfera Tech** é uma **empresa líder** no desenvolvimento de soluções 
 Com uma equipe especializada, buscamos transformar **dados meteorológicos** em **soluções reais**, impactando positivamente o dia a dia dos nossos usuários. Nosso foco é **inovar**, **educar** e **capacitar** por meio de tecnologias que permitem que as pessoas **entendam** e **interajam** com o clima de maneira direta e eficaz.
 
 Nosso trabalho é guiado por uma paixão por **precisão**, **acessibilidade** e **sustentabilidade**, com o objetivo de criar uma **experiência personalizada** para cada usuário.
-Para conhecer mais sobre nossa missão, visão e valores, acesse nosso repositório institucional [aqui](#).
+Para conhecer mais sobre nossa missão, visão e valores, acesse nosso repositório institucional [aqui](https://github.com/Atmosfera-Tech/ATMOSFERA-TECH).
 
 ---
 
 ## ❓ **Funcionalidades do Atmos**
 
-O **Atmos** oferece uma série de funcionalidades poderosas e práticas para garantir a melhor experiência ao usuário. Abaixo estão as principais características do aplicativo:
+O **Atmos** foi projetado para fornecer informações meteorológicas detalhadas e de fácil acesso, com funcionalidades que ajudam o usuário a se manter bem informado sobre as condições climáticas. Abaixo estão as principais funcionalidades:
 
-- **Previsões Meteorológicas em Tempo Real**  
-  _(Aqui, descreva como o Atmos fornece informações sobre as condições climáticas de forma precisa e instantânea, com atualizações frequentes.)_
+### 🔍 **Pesquisa de Cidades para Temperatura Atual**  
+Com a funcionalidade de **pesquisa**, o **Atmos** permite que você busque rapidamente **qualquer cidade** ao redor do mundo para obter a **temperatura** e as **condições climáticas** atualizadas. Seja qual for o destino, o aplicativo proporciona a você as informações precisas sobre o clima local, para que você possa planejar suas atividades com confiança, independentemente de onde esteja.
 
-- **Interface Intuitiva e Amigável**  
-  _(Explique como a interface foi projetada para ser fácil de usar, com navegação fluida e clara para o usuário.)_
+### 🌅 **Previsões de Temperatura para o Dia Todo**  
+O **Atmos** oferece uma visão detalhada das previsões para o dia, dividindo as **temperaturas** em três períodos do dia:  
+- **Manhã**  
+- **Tarde**  
+- **Noite**
 
-- **Alertas Climáticos Personalizados**  
-  _(Descreva como o aplicativo envia notificações sobre mudanças no clima, como tempestades, chuvas fortes ou temperaturas extremas, e como o usuário pode configurar esses alertas.)_
+Dessa forma, você pode planejar seu dia com base nas **variações de temperatura** ao longo das diferentes horas, garantindo que esteja sempre preparado para as mudanças climáticas.
 
-- **Visualização Personalizável de Dados**  
-  _(Fale sobre como os usuários podem ajustar as configurações para visualizar as informações da maneira que mais lhes convém, como alterar a unidade de temperatura ou a cidade de referência.)_
+### 🌡️ **Sensação Térmica**  
+Além da **temperatura real**, o **Atmos** fornece a **sensação térmica**, que indica como o clima é percebido pelo corpo humano. Isso leva em conta fatores como **vento** e **umidade**, oferecendo uma visão mais precisa sobre como o clima realmente se sente, para que você possa se vestir adequadamente ou tomar precauções necessárias.
+
+### 🌬️ **Informações Adicionais sobre o Clima**  
+O **Atmos** vai além da temperatura, oferecendo uma série de outros dados importantes, como:  
+- **Umidade**  
+- **Vento**  
+- **Pressão atmosférica**  
+- **Visibilidade**  
+- **Cobertura de nuvens**  
+- **Latitude e Longitude**
+
+Essas informações são úteis para quem precisa de uma **visão detalhada** e **completa** das condições climáticas, seja para **viagens**, **atividades ao ar livre** ou até mesmo para monitorar o clima local com precisão. Essas funcionalidades tornam o **Atmos** uma ferramenta **prática** e **completa** para quem deseja acompanhar as condições climáticas de maneira detalhada e em tempo real.
+
 
 ---
 
@@ -136,8 +150,6 @@ git clone https://github.com/AtmosferaTech/Atmos.git
 
 - Abra o projeto no **Eclipse** ou na sua IDE preferida.
 - Compile e execute o arquivo principal de inicialização.
-
-📚 **Para detalhes adicionais sobre a configuração**, consulte a [documentação oficial da OpenWeatherMap](https://openweathermap.org/).
 
 ---
 
