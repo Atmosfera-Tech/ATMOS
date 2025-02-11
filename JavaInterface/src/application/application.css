@@ -1,7 +1,6 @@
-/* Importando a fonte Montserrat */
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;500;700;900&display=swap');
 
-/* Aplicando a fonte Montserrat para toda a aplicação */
 .root {
     -fx-font-family: 'Montserrat', sans-serif;
     -fx-background: rgba(178,190,214,255);
@@ -12,7 +11,6 @@
     -fx-spacing: 25px;
 }
 
-/* Estilo da logo */
 .logo {
     -fx-fit-width: 300px;
     -fx-fit-height: 300px;
@@ -20,7 +18,6 @@
     -fx-translate-y: -20;
 }
 
-/* Estilo da imagem de login */
 .login-image {
     -fx-fit-width: 400px;
     -fx-fit-height: 400px;
@@ -28,7 +25,6 @@
     -fx-translate-y: -70;
 }
 
-/* Estilo dos campos de texto (e-mail e senha) */
 .text-field, .password-field {
     -fx-font-size: 14px;
     -fx-padding: 12px;
@@ -41,7 +37,6 @@
     -fx-translate-y: -80;
 }
 
-/* Estilo da mensagem (erro/sucesso) */
 .mensagem-label {
     -fx-font-size: 14px;
     -fx-padding: 5px 0px;
@@ -57,7 +52,6 @@
     -fx-wrap-text: true;
 }
 
-/* Estilo do botão Confirmar */
 .confirmar-button {
     -fx-background-color: rgba(245,155,57,1);
     -fx-text-fill: black;
@@ -71,7 +65,6 @@
     -fx-translate-y: -80;
 }
 
-/* Estilo do label de copyright */
 .copyright-label {
     -fx-font-size: 14px;
     -fx-text-fill: black;
@@ -79,7 +72,6 @@
     -fx-padding: 40px;
 }
 
-/* Estilo da mensagem de erro */
 .mensagem-erro {
     -fx-background-color: rgba(230,37,127,255);
 }
