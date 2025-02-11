@@ -39,7 +39,7 @@
 
 .mensagem-label {
     -fx-font-size: 14px;
-    -fx-padding: 5px 0px;
+    -fx-padding: 0px 5px;
     -fx-border-radius: 0px 5px;
     -fx-background-radius: 10px;
     -fx-text-fill: white;
