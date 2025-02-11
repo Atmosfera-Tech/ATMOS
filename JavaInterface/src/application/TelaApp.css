@@ -1,0 +1,117 @@
+/* Importando a fonte Montserrat */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;500;700;900&display=swap');
+
+/* Aplicando a fonte Montserrat para toda a aplicação */
+.root {
+    -fx-font-family: 'Montserrat', sans-serif;
+    -fx-background: rgba(178,190,214,255);
+}
+
+/* Estilo da hbox para organizar os quadrados */
+.hbox {
+    -fx-alignment: center;
+    -fx-spacing: 10px;
+    -fx-padding: 20px;
+}
+
+/* Estilo dos quadrados */
+.previsaohoje, .climasimples, .possibilidadechuva, .climadetalhado {
+    -fx-arc-width: 20px;
+    -fx-arc-height: 20px;
+    -fx-translate-y: -70px;
+}
+
+.previsaohoje {
+    -fx-fill: rgb(38, 54, 77);
+}
+
+.climasimples {
+    -fx-fill: rgb(255, 255, 255);
+}
+
+.possibilidadechuva {
+    -fx-fill: rgb(83, 126, 168);
+}
+
+.climadetalhado {
+    -fx-fill: rgb(38, 63, 138);
+}
+
+/* Alinhamento e layout */
+.vbox {
+    -fx-alignment: center;
+    -fx-spacing: 20px;
+    -fx-padding: 10px;
+}
+
+.busca {
+    -fx-font-size: 14px;
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-background-color: rgba(220,199,129,255);
+    -fx-text-fill: rgba(128,104,26,255);
+    -fx-prompt-text-fill: rgba(128,104,26,255);
+    -fx-min-width: 300px;
+    -fx-min-height: 35px;
+}
+
+/* Estilo da pesquisa no topo */
+.pesquisa-box {
+    -fx-alignment: center;
+    -fx-spacing: 10px;
+    -fx-padding: 20px;
+    -fx-translate-y: -50px;
+}
+
+/* Estilo da logo */
+.foto {
+    -fx-fit-width: 200px;
+    -fx-fit-height: 200px;
+    -fx-alignment: center;
+    -fx-preserve-ratio: true;
+    -fx-translate-y: -20;
+}
+
+/* Estilo dos labels de informações do clima */
+
+/* Copyright */
+.copyright-label-app {
+    -fx-font-size: 14px;
+    -fx-text-fill: black;
+    -fx-alignment: center;
+    -fx-translate-y: -80px;
+    -fx-translate-x: 630px;
+}
+
+label {
+    -fx-font-family: 'Montserrat', sans-serif;
+}
+
+/* Definindo o estilo das Labels */
+.label-clima {
+    -fx-font-size: 20px;
+    -fx-text-fill: white;
+    -fx-alignment: center;
+}
+
+.label-clima.cidade {
+    -fx-text-fill: black;
+}
+
+.label-clima.temperatura {
+    -fx-text-fill: black;
+}
+
+.label-clima.cidade, .label-clima.temperatura {
+	-fx-translate-y: -65px;
+}
+
+.label-clima.condicao, .label-clima.umidade, .label-clima.pressao, .label-clima.vento, 
+.label-clima.visibilidade, .label-clima.nuvens, .label-clima.latitude, 
+.label-clima.longitude, .label-clima.descricao, .label-clima.feelslike, 
+.label-clima.tempmanh, .label-clima.temptard, .label-clima.tempnoit {
+    -fx-text-fill: white;
+    -fx-translate-y: -50px;
+}
+

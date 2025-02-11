@@ -1,0 +1,89 @@
+/* Estilo do root */
+.root {
+    -fx-background: rgba(178,190,214,255);
+}
+
+/* Estilo da hbox para organizar os quadrados */
+.hbox {
+    -fx-alignment: center; /* Alinha os itens no centro horizontal */
+    -fx-spacing: 10px; /* Espaço entre os quadrados */
+    -fx-padding: 20px;
+}
+
+/* Estilo de cada quadrado */
+.previsaohoje {
+    -fx-fill: rgb(38, 54, 77); /* Cor RGB: #26364d */
+    -fx-arc-width: 20px; /* Arredonda as bordas horizontalmente */
+    -fx-arc-height: 20px; /* Arredonda as bordas verticalmente */
+        -fx-translate-y: -70px;
+}
+
+.climasimples {
+    -fx-fill: rgb(255, 255, 255); /* Cor RGB: #ffffff */
+    -fx-arc-width: 20px; /* Arredonda as bordas horizontalmente */
+    -fx-arc-height: 20px; /* Arredonda as bordas verticalmente */
+        -fx-translate-y: -70px;
+}
+
+.possibilidadechuva {
+    -fx-fill: rgb(83, 126, 168); /* Cor RGB: #537ea8 */
+    -fx-arc-width: 20px; /* Arredonda as bordas horizontalmente */
+    -fx-arc-height: 20px; /* Arredonda as bordas verticalmente */
+        -fx-translate-y: -70px;
+}
+
+.climadetalhado {
+    -fx-fill: rgb(38, 63, 138); /* Cor RGB: #263f8a */
+    -fx-arc-width: 20px; /* Arredonda as bordas horizontalmente */
+    -fx-arc-height: 20px; /* Arredonda as bordas verticalmente */
+    -fx-translate-y: -70px;
+}
+
+/* Estilo para o alinhamento da mensagem e do copyright */
+.copyright-label-app {
+    -fx-font-size: 14px;
+    -fx-text-fill: black;
+    -fx-alignment: center;
+    -fx-translate-y: -80px;
+    -fx-translate-x: 630px;
+}
+
+/* Layout de Centralização Vertical */
+.hbox{
+	-fx-alignment: center;
+    -fx-padding: 10px;
+}
+.vbox {
+    -fx-alignment: center;
+    -fx-spacing: 20px;
+    -fx-padding: 10px;
+}
+
+.busca {
+    -fx-font-size: 14px;
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-background-color: rgba(220,199,129,255); /* Cor de fundo com transparência */
+    -fx-text-fill: rgba(128,104,26,255);
+    -fx-prompt-text-fill: rgba(128,104,26,255); /* Cor do texto do prompt */
+    -fx-min-width: 300px;
+    -fx-min-height: 35px;
+}
+
+/* Estilo da pesquisa no topo */
+.pesquisa-box {
+    -fx-alignment: center; /* Alinha a pesquisa no centro */
+    -fx-spacing: 10px;
+    -fx-padding: 20px;
+    -fx-translate-y: -50px;
+}
+
+.logo {
+    -fx-fit-width: 200px;
+    -fx-fit-height: 200px;
+    -fx-alignment: center;
+    -fx-preserve-ratio: true;
+    -fx-translate-y: -20;
+    -fx-translate-x: 670px;
+}
