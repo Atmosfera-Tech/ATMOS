@@ -10,7 +10,12 @@ Este repositório contém uma lista de links úteis relacionados ao desenvolvime
 - [Exemplo prático de criação de aplicativo com JavaFX](https://youtu.be/8ZcEYv2ezWc?si=xy0dBgnoZuXWr_HZ)
 - [Configuração do ambiente JavaFX no Eclipse - Vídeo tutorial](https://youtu.be/WS_H44tvZMI?si=RnG2lPJlL-mv6q1C)
 - [Playlist de vídeos sobre JavaFX e integração de APIs](https://youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG&si=7SWAXQzJX5ibi0us)
-- [Instalando o JavaFX no Eclipse - Guia completo](https://savio.pw/posts/instalar-javafx-no-eclipse)
 - [Tutorial para configurar o JavaFX no Eclipse](https://youtu.be/3eE-xz-l2mY?si=zZSVbdks8ncFcKH0)
 - [Weather App - Projeto para Iniciantes de Java](https://youtu.be/8ZcEYv2ezWc?si=xy0dBgnoZuXWr_HZ)
-- [Como usar API calls no Java - Exemlplo com Weather Forecast API](https://youtu.be/WS_H44tvZMI?si=RnG2lPJlL-mv6q1C)
+- [Como usar API calls no Java - Exemplo com Weather Forecast API](https://youtu.be/WS_H44tvZMI?si=RnG2lPJlL-mv6q1C)
+
+## Sites
+
+- [Gluon - Produtos JavaFX](https://gluonhq.com/products/javafx/)
+- [JetBrains IDEA - IDE para Java e outras linguagens](https://www.jetbrains.com/idea/)
+- [Instalando o JavaFX no Eclipse - Guia completo](https://savio.pw/posts/instalar-javafx-no-eclipse)
