@@ -1,20 +1,17 @@
-/* Importando a fonte Montserrat */
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;500;700;900&display=swap');
 
-/* Aplicando a fonte Montserrat para toda a aplicação */
 .root {
     -fx-font-family: 'Montserrat', sans-serif;
     -fx-background: rgba(178,190,214,255);
 }
 
-/* Estilo da hbox para organizar os quadrados */
 .hbox {
     -fx-alignment: center;
     -fx-spacing: 10px;
     -fx-padding: 20px;
 }
 
-/* Estilo dos quadrados */
 .previsaohoje, .climasimples, .possibilidadechuva, .climadetalhado {
     -fx-arc-width: 20px;
     -fx-arc-height: 20px;
@@ -37,7 +34,6 @@
     -fx-fill: rgb(38, 63, 138);
 }
 
-/* Alinhamento e layout */
 .vbox {
     -fx-alignment: center;
     -fx-spacing: 20px;
@@ -56,7 +52,6 @@
     -fx-min-height: 35px;
 }
 
-/* Estilo da pesquisa no topo */
 .pesquisa-box {
     -fx-alignment: center;
     -fx-spacing: 10px;
@@ -64,31 +59,10 @@
     -fx-translate-y: -50px;
 }
 
-/* Estilo da logo */
-.foto {
-    -fx-fit-width: 200px;
-    -fx-fit-height: 200px;
-    -fx-alignment: center;
-    -fx-preserve-ratio: true;
-    -fx-translate-y: -20;
-}
-
-/* Estilo dos labels de informações do clima */
-
-/* Copyright */
-.copyright-label-app {
-    -fx-font-size: 14px;
-    -fx-text-fill: black;
-    -fx-alignment: center;
-    -fx-translate-y: -80px;
-    -fx-translate-x: 630px;
-}
-
 label {
     -fx-font-family: 'Montserrat', sans-serif;
 }
 
-/* Definindo o estilo das Labels */
 .label-clima {
     -fx-font-size: 20px;
     -fx-text-fill: white;
@@ -114,4 +88,3 @@ label {
     -fx-text-fill: white;
     -fx-translate-y: -50px;
 }
-
