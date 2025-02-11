@@ -14,6 +14,8 @@ import org.json.JSONObject;
 
 public class ApiInicial {
 
+    // Exibição dos dados via console para verificação de funcionalidade da API
+
     private static final String CHAVE_API = "1b8011be68237c8bbbc70fe9ecca7722"; // sua chave de API
     private static final String URL_BASE = "http://api.openweathermap.org/data/2.5/forecast?";
 
