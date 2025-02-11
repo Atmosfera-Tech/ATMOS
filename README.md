@@ -1,4 +1,4 @@
-# 🌤️ **Atmos - Conectando Você ao Clima**
+# 🌤️ **Atmos - Sua conexão direta com o clima, a qualquer hora e em qualquer lugar.**
 
 O **Atmos** é um aplicativo inovador desenvolvido pela **Atmosfera Tech** que fornece **previsões meteorológicas precisas** e em **tempo real**. Utilizando a poderosa **API OpenWeatherMap**, o **Atmos** oferece dados atualizados sobre as condições climáticas de forma rápida, acessível e confiável.
 
@@ -165,7 +165,7 @@ Se você tiver dúvidas, sugestões ou quiser saber mais sobre o projeto, entre 
 
 ---
 
-Agradecemos seu interesse e ficaremos felizes em colaborar com você! 😊
+### Agradecemos seu interesse e ficaremos felizes em colaborar com você! 😊
 
 
 
