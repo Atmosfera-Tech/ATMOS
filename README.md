@@ -57,7 +57,7 @@ A equipe por trás do **Atmos** é composta por profissionais dedicados, cada um
 
 💻 **[Gabriel](https://github.com/gabrielviniciussc)** - _Programação da API (Back-end)._ 
 
-📊 **[Victor](https://github.com/Victor0041)** - _Diagramas._
+📊 **[Victor](https://github.com/Victor0041)** - _Diagramas e Criação de contas._
 
 🖌️ **[Thaylize](https://github.com/thaylizesant0s)** - _Design, Gerenciamento e Organização Visual do Repositório._
 
