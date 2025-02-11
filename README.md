@@ -104,6 +104,7 @@ O repositório está organizado da seguinte forma:
  ┣ 📂 **AtmosEclip**  
  ┣ 📂 **Design**  
  ┣ 📂 **Java Interface**  
+ ┣ 📂 **Diagramas**  
  ┗ 📜 **README.md**
 
 ### 📁 **Descrição das Pastas**:
@@ -118,7 +119,10 @@ O repositório está organizado da seguinte forma:
   _(Contém todos os elementos gráficos, protótipos de tela e assets visuais usados no desenvolvimento da interface.)_
 
 - **Java Interface**:  
-  _(Inclui o código-fonte da interface gráfica e o front-end implementado com **JavaFX**.)_
+  _(Inclui o código-fonte da interface gráfica, o front-end implementado com **JavaFX** e a versão final do aplicativo.)_
+
+- **Diagramas**:  
+  _(Contém os diagramas de classe relacionados aos códigos usados para a montagem da API e da interface, organizando a estrutura do sistema de forma clara.)_
 
 - **README.md**:  
   _(Documento principal com a descrição do projeto, instruções e informações importantes sobre o desenvolvimento.)_
