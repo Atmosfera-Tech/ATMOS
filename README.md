@@ -49,18 +49,6 @@ Essas informações são úteis para quem precisa de uma **visão detalhada** e 
 
 ---
 
-## 🚀 **Demonstração**
-
-Veja o **Atmos** em funcionamento:
-
-(Insira aqui um **GIF** ou **imagem** mostrando o funcionamento do aplicativo em tempo real, como a exibição das previsões climáticas ou uma demonstração da interface interativa.)
-
-### 🎬 **Como visualizar a demonstração**
-1. **GIF Animado**: (Se você tiver um **GIF** que mostre o comportamento dinâmico do aplicativo, como mudanças de clima ou transições de tela, insira-o aqui. Exemplo: `![Atmos Demo](link-para-o-gif.gif)`).
-2. **Captura de Tela**: (Se preferir usar uma imagem estática, insira uma captura de tela que mostre o app em funcionamento. Exemplo: `![Tela do Atmos](link-para-imagem.jpg)`).
-
----
-
 ## 👥 **Equipe de Desenvolvimento**
 
 A equipe por trás do **Atmos** é composta por profissionais dedicados, cada um contribuindo com sua expertise para o sucesso deste projeto:
@@ -103,7 +91,7 @@ O repositório está organizado da seguinte forma:
 📦 **Atmos**  
  ┣ 📂 **AtmosEclip**  
  ┣ 📂 **Design**  
- ┣ 📂 **Java Interface**  
+ ┣ 📂 **JavaInterface**  
  ┣ 📂 **Diagramas**  
  ┗ 📜 **README.md**
 
@@ -118,7 +106,7 @@ O repositório está organizado da seguinte forma:
 - **Design**:  
   _(Contém todos os elementos gráficos, protótipos de tela e assets visuais usados no desenvolvimento da interface.)_
 
-- **Java Interface**:  
+- **JavaInterface**:  
   _(Inclui o código-fonte da interface gráfica, o front-end implementado com **JavaFX** e a versão final do aplicativo.)_
 
 - **Diagramas**:  
@@ -147,6 +135,13 @@ git clone https://github.com/Atmosfera-Tech/Atmos.git
 - **Certifique-se de que o Java 11 ou superior está instalado no seu sistema.**  
   Caso não tenha, você pode baixá-lo [aqui](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 
+- **Instale o JavaFX**  
+  O projeto utiliza o JavaFX para a interface gráfica. Para instalar o JavaFX no seu sistema, siga as instruções de acordo com o seu sistema operacional:
+
+  - **Windows/Mac/Linux**: Você pode baixar a versão mais recente do JavaFX [aqui](https://openjfx.io/).
+  
+  - Após a instalação, **configure o caminho do JavaFX** na sua IDE. Em algumas IDEs como o Eclipse, você precisará adicionar o JavaFX às bibliotecas do projeto.
+
 - **Baixe a chave da API da OpenWeatherMap** e configure-a no arquivo de configurações do projeto.  
   Para mais detalhes sobre como obter a chave, consulte a [documentação oficial da OpenWeatherMap](https://openweathermap.org/appid).
 
@@ -154,8 +149,8 @@ git clone https://github.com/Atmosfera-Tech/Atmos.git
 
 - Abra o projeto no **Eclipse** ou na sua IDE preferida.
 - Compile e execute o arquivo principal de inicialização.
-
----
+  
+  **Se estiver utilizando o Eclipse**, lembre-se de adicionar a biblioteca JavaFX ao seu projeto. Você pode fazer isso nas propriedades do projeto, em "Libraries" → "Add External JARs" → selecione a pasta lib do JavaFX.
 
 # 📩 **Contato**
 
